@@ -1,0 +1,6 @@
+@lbfFinWs_HostAddress = http://localhost:5052
+
+GET {{lbfFinWs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
